@@ -1,0 +1,4 @@
+gymnasium[classic_control]
+torch
+numpy
+matplotlib
